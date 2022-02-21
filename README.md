@@ -7,7 +7,7 @@ I’m currently learning Flutter/Dart for mobile and Unity/C# for game developme
 # Current focus
 
 At the moment I'm focused on reworking a project for QR scanning. The present task is to make it smoothly working with Firebase.  
-I was doing this project in a team within the Flutter course in the late 2021. Now I want to rework it and get myself common with Firebase and some other cool things.
+I was doing this project in a team within the Flutter course in the late 2021. Now I want to rework it and get myself common with Firebase and some other cool stuff.
 
 
 # Contacts
