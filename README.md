@@ -12,6 +12,5 @@ I was doing this project in a team within the Flutter course in the late 2021. N
 
 # Contacts
 You can contact me via:  
-Social networks - https://vk.com/scofferx;  
 Email - kalandinscoffer@gmail.com;  
 Telegram - https://t.me/Glebyara.  
