@@ -10,7 +10,7 @@ At the moment I'm focused on reworking a project for QR scanning.
 I was doing this project in a team within the Flutter course in the late 2021. 
 Now I want to rework it and get myself common with Firebase and some other cool stuff.
 
-# Flutter libraries
+# Flutter packages
 
 - Firebase
 - dio
