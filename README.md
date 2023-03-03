@@ -1,7 +1,7 @@
 # About me
 
 Hello there, I’m @Glebosik!  
-I’m currently learning Flutter/Dart for mobile development
+I’m currently learning Flutter/Dart for mobile development.
 
 # Current focus
 
