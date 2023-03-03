@@ -1,8 +1,7 @@
 # About me
 
 Hello there, I’m @Glebosik!  
-I’m interested in mobile and game development.  
-I’m currently learning Flutter/Dart for mobile and Unity/C# for game development.
+I’m currently learning Flutter/Dart for mobile development
 
 # Current focus
 
