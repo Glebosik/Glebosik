@@ -1,4 +1,5 @@
 # About me
+[![My Skills](https://skillicons.dev/icons?i=git,docker,c,cpp,java,dart,flutter,firebase,mysql,vscode)](https://skillicons.dev)
 
 Hello there, I’m @Glebosik!  
 I’m currently learning Flutter/Dart for mobile development.
