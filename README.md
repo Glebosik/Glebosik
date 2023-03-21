@@ -6,7 +6,7 @@ I’m currently learning Flutter/Dart for mobile development.
 
 # Current focus
 
-Learning BLoC, testing and Clean Architecture while working on a Yet Another Weather App.
+Learning BLoC, unit and widget testing and Clean Architecture while working on a Yet Another Weather App.
 
 # Flutter packages
 
